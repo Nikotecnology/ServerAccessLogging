@@ -85,6 +85,14 @@ Message Personalization:
 
 You can customize it but remember that you should include all the tags to make it work.
 
+## Updating
+
+After finishing the installation don't delete the cloned folder, because when i release an update you simply do:
+    
+    git pull
+    sh install.sh
+    
+And you have updated the project.
 
 ## Conclusion
 
