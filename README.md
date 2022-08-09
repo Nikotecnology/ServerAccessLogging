@@ -15,6 +15,7 @@ This is the first version of this script, i will update it with new features and
 
 - Customizable Info's on message(Like hostname and so on)
 - Manage sessions directly from the telegram bot
+- Adding login log file (Different from the system's one, it will store the custom info)
 - Other Things you can add either...
 
 # Installation 
