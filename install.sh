@@ -6,7 +6,7 @@ chmod +x telegram-send.sh
 sudo cp telegram-send.sh /usr/bin/telegram-send
 sudo chown root:root /usr/bin/telegram-send
 
-mkdir /var/serveraccesslogging
+mkdir -p /var/serveraccesslogging
 sudo cp .env /var/serveraccesslogging/.env.local
 sudo cp message.txt /var/serveraccesslogging/message.txt
 
