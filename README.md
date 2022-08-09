@@ -29,7 +29,7 @@ See: https://core.telegram.org/bots#6-botfather
 
 Clone the repository in a folder of your server
 
-    git clone https://github.com/Nikotecnology/ServerAccessLogging
+    git clone https://github.com/Nikotecnology/ServerAccessLogging.git
 
 Then enter the folder and give permissions to install.sh file
 
