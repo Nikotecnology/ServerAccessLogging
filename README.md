@@ -42,7 +42,7 @@ Now let's start the script
 
 You should receive this message:
 
-    Completed! Now the file .env is in this folder: /var/serveraccesslogging/.env, and you can customize the message in the same folder but in the file message.txt
+    Completed! Now the file .env.local is in this folder: /var/serveraccesslogging/.env.local, and you can customize the message in the same folder but in the file message.txt
 
 ## Configuration
 
@@ -78,6 +78,7 @@ Message Personalization:
     IP-Address: ${login_ip}
     Date: ${login_date}
     Session: ${session_id}
+    Method: ${method}
     
     Use: "pkill -9 -t ${session_id}" to kill that session
 

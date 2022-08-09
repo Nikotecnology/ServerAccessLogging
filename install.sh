@@ -18,5 +18,5 @@ fi
 #Copying notify script into the profile.d folder to make it execute on login
 sudo cp access-notify.sh /etc/profile.d/access-notify.sh
 
-echo "Completed! Now the file .env is in this folder: /var/serveraccesslogging/.env, and you can customize the message in the same folder but in the file message.txt"
+echo "Completed! Now the file .env.local is in this folder: /var/serveraccesslogging/.env.local, and you can customize the message in the same folder but in the file message.txt"
 

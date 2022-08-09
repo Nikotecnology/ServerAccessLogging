@@ -3,5 +3,6 @@ Logged User: ${login_name}
 IP-Address: ${login_ip}
 Date: ${login_date}
 Session: ${session_id}
+Method: ${method}
 
 Use: "pkill -9 -t ${session_id}" to kill that session
