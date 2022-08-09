@@ -3,6 +3,10 @@ This scripts allows you to see who log-in to your server with a telegram bot and
 
 This is the first version of this script, i will update it with new features and you can create pull requests to contribute to this project.
 
+If you wanna support my work
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nikotecnology){:target="_blank"}
+
 # Features
 
 - Automatic Configuration
