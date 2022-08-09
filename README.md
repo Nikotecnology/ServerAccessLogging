@@ -5,7 +5,7 @@ This is the first version of this script, i will update it with new features and
 
 If you wanna support my work
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nikotecnology){:target="_blank"}
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nikotecnology)
 
 # Features
 
