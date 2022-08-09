@@ -7,11 +7,11 @@ sudo cp telegram-send.sh /usr/bin/telegram-send
 sudo chown root:root /usr/bin/telegram-send
 
 mkdir -p /var/serveraccesslogging
-if test -f "/var/serveraccesslogging/.env.local"; then
+if ! test -f "/var/serveraccesslogging/.env.local"; then
   sudo cp .env /var/serveraccesslogging/.env.local
 fi
 
-if test -f "/var/serveraccesslogging/message.txt"; then
+if ! test -f "/var/serveraccesslogging/message.txt"; then
   sudo cp message.txt /var/serveraccesslogging/message.txt
 fi
 
