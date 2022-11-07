@@ -2,7 +2,7 @@
 
 #Here you can customize witch information you want to send to the user/'s
 hostname="$(hostname)"
-login_ip="$(echo $SSH_CONNECTION | cut -d " " -f 1)"
+login_ip="$(echo "$SSH_CONNECTION" | cut -d " " -f 1)"
 login_date="$(date +"%A %e %b %Y -  %d\/%m\/%y - %r")"
 login_name="$(whoami)"
 session_id="$(echo "$(tty | sed -e 's:/dev/::')")"
