@@ -1,4 +1,7 @@
 # Server Access Logging (Telegram-Bot Based)
+
+This project is now suspended because i can't work anymore on it, if you want to contribute i will review pull requests
+
 This scripts allows you to see who log-in to your server with a telegram bot and manage their sessions!
 
 This is the first version of this script, i will update it with new features and you can create pull requests to contribute to this project.
